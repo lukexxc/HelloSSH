@@ -1,2 +1,2 @@
 # HelloSSH
-Hibernate+struts2+Spring
+spring+springmvc+mybatis
